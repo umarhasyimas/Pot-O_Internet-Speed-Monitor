@@ -35,27 +35,6 @@ It measures real network traffic. It does **not** run speed tests, contact any s
 - To **build**: Visual Studio 2019 / 2022 / 2026 with the *Desktop development with C++* workload
 - To use **per-application usage**: administrator rights (see below)
 
-## Build
-
-1. Clone or download this repository.
-2. Open a *Developer Command Prompt for VS* (or just double-click `build.bat`).
-3. Run:
-
-   ```bat
-   build.bat
-   ```
-
-The executable is created in `build\` and is named after the version defined in `src\version.h`:
-
-```
-build\Pot-O_InternetSpeedMonitor_2.1.0.exe
-```
-
-The icon, version information and manifest are embedded in the executable. The C++ runtime is linked statically,
-so the exe runs on a clean Windows install without any redistributable.
-
-To change the version, edit **only** `src\version.h`; the exe name, the file properties and the About box follow it.
-
 ## Usage
 
 Run the exe. A speed widget appears next to the system tray and an icon appears in the notification area.
