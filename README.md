@@ -145,7 +145,7 @@ your computer.
 ## Author
 
 **Muhammad Umar Hasyim Ashari** - (c) 2026
-umarhasyimas[at]gmail.com
+| umarhasyimas[at]gmail.com
 
 ## License
 
