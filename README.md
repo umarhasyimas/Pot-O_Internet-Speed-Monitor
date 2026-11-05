@@ -1,7 +1,17 @@
+<div align="center">
+
 # Pot-O Internet Speed Monitor
 
 A tiny, native Windows utility that shows your **live download and upload speed** right on the taskbar or by widget,
 and **which application is using your connection**.
+
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20(64--bit)-0078D6)
+![License](https://img.shields.io/badge/license-Freeware-FF9A3D)
+
+[Download](https://github.com/umarhasyimas/Pot-O_Internet-Speed-Monitor/releases) ·
+[Report a problem](https://github.com/umarhasyimas/Pot-O_Internet-Speed-Monitor/issues) ·
+
+</div>
 
 It measures real network traffic. It does **NOT** run speed tests, contact any server, or send any data anywhere.
 
